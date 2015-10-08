@@ -5,6 +5,6 @@
   * Create DOM tree for given page(includes creating empty div tags for rows and columns)
   * Write HTML that defines DOM
   * Assign class names to HTML elements
-  * Write css
+  * Write css ( includes using bootstrap grid layout )
   * Test HTML page
   * Repeat above steps to get to desired web page
