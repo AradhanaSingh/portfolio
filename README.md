@@ -1,1 +1,3 @@
-# portfolio
+- portfolio project is part of Udacity Course. 
+- This project used HTML and CSS to make portfolio. Also uses grid layout provided by bootstrap framework.
+- Following are steps followed to complete this project
